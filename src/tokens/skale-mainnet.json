@@ -38,5 +38,13 @@
     "decimals": 18,
     "chainId": 836542336838601,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
+  },
+  {
+    "name": "Wrapped Car Token 1",
+    "address": "0x2BCEC1888D8c8d9B5955Bf9307a96BdC2122c849",
+    "symbol": "wCT1",
+    "decimals": 2,
+    "chainId": 836542336838601,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
   }
 ]
