@@ -46,5 +46,13 @@
     "decimals": 2,
     "chainId": 836542336838601,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x300b4334CD9fbAE70c4aEF3abcAd30fA31a1bb30",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 836542336838601,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2021-12-25T22:13:23.822Z",
+  "timestamp": "2021-12-27T12:56:01.576Z",
   "version": {
     "major": 1,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
   "tags": {},
@@ -172,6 +172,14 @@
       "decimals": 18,
       "chainId": 836542336838601,
       "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/eth.svg"
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0x300b4334CD9fbAE70c4aEF3abcAd30fA31a1bb30",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 836542336838601,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
       "name": "SKALE",
