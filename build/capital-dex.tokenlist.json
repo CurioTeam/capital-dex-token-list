@@ -1,9 +1,9 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2021-12-27T12:56:01.576Z",
+  "timestamp": "2021-12-28T21:31:11.189Z",
   "version": {
     "major": 1,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   },
   "tags": {},
@@ -188,6 +188,14 @@
       "decimals": 18,
       "chainId": 836542336838601,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xb5D8201e187Fd68aF4B54C7662124D93506dE505",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 836542336838601,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Wrapped Car Token 1",
