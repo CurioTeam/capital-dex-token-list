@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2021-12-28T21:31:11.189Z",
+  "timestamp": "2022-01-10T14:16:07.684Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -244,6 +244,14 @@
       "decimals": 18,
       "chainId": 2317290928455356,
       "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/eth.svg"
+    },
+    {
+      "name": "SKALE",
+      "address": "0x9b11D28B030bAf4BDCE08013d291F30D6bC1A16f",
+      "symbol": "SKL",
+      "decimals": 18,
+      "chainId": 2317290928455356,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
     },
     {
       "name": "Wrapped Ether",

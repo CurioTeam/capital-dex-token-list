@@ -46,5 +46,13 @@
     "decimals": 18,
     "chainId": 2317290928455356,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
+  },
+  {
+    "name": "SKALE",
+    "address": "0x9b11D28B030bAf4BDCE08013d291F30D6bC1A16f",
+    "symbol": "SKL",
+    "decimals": 18,
+    "chainId": 2317290928455356,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
   }
 ]
