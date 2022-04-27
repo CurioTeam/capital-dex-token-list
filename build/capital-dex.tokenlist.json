@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-01-10T14:16:07.684Z",
+  "timestamp": "2022-04-27T15:43:09.143Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -132,6 +132,14 @@
       "decimals": 18,
       "chainId": 42,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Wrapped Car Token 1",
+      "address": "0x9542B65025081850f5f3838C25779423eF2C1578",
+      "symbol": "wCT1",
+      "decimals": 2,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
     },
     {
       "name": "Wrapped Ether",

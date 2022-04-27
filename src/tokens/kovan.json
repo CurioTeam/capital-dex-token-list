@@ -38,5 +38,13 @@
     "decimals": 18,
     "chainId": 42,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
+  },
+  {
+    "name": "Wrapped Car Token 1",
+    "address": "0x9542B65025081850f5f3838C25779423eF2C1578",
+    "symbol": "wCT1",
+    "decimals": 2,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
   }
 ]
