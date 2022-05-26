@@ -86,5 +86,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
+  },
+  {
+    "name": "Ixs Token",
+    "address": "0x73d7c860998CA3c01Ce8c808F5577d94d545d1b4",
+    "symbol": "IXS",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/18069/large/ixswap.PNG?1630375152"
   }
 ]
