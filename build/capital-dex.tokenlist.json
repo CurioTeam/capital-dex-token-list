@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-04-27T15:43:09.143Z",
+  "timestamp": "2022-06-06T17:06:14.994Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -132,6 +132,14 @@
       "decimals": 18,
       "chainId": 42,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Ixs Token",
+      "address": "0x282aC06783827eC267650FCfbF6d82fB17711011",
+      "symbol": "IXS",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://assets.coingecko.com/coins/images/18069/large/ixswap.PNG?1630375152"
     },
     {
       "name": "Wrapped Car Token 1",

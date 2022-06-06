@@ -46,5 +46,13 @@
     "decimals": 2,
     "chainId": 42,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
+  },
+  {
+    "name": "Ixs Token",
+    "address": "0x282aC06783827eC267650FCfbF6d82fB17711011",
+    "symbol": "IXS",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://assets.coingecko.com/coins/images/18069/large/ixswap.PNG?1630375152"
   }
 ]
