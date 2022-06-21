@@ -1,7 +1,7 @@
 const { version } = require('../package.json');
 const kovan = require('./tokens/kovan.json');
 const mainnet = require('./tokens/mainnet.json');
-const skaleTestnet = require('./tokens/skale-testnet.json');
+const skaleTestnetV2 = require('./tokens/skale-testnet-v2.json');
 const skaleMainnet = require('./tokens/skale-mainnet.json');
 
 module.exports = function buildList() {
@@ -23,7 +23,7 @@ module.exports = function buildList() {
     tokens: [
       ...kovan,
       ...mainnet,
-      ...skaleTestnet,
+      ...skaleTestnetV2,
       ...skaleMainnet,
     ]
       // sort them by symbol for easy readability
