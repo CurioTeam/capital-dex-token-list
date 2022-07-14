@@ -14,5 +14,29 @@
     "decimals": 18,
     "chainId": 28,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x9Fe14Ae8751a2d63714431d94B75247af8dD8Ea3",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 28,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Curio Stable Coin",
+    "address": "0x6cA23dEec9B3f53341B7Dde9Ab0663581A473eBe",
+    "symbol": "CSC",
+    "decimals": 18,
+    "chainId": 28,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
+  },
+  {
+    "name": "Wrapped Car Token 1",
+    "address": "0x11384996AD2a024AD5417Cce6300a234FB91B120",
+    "symbol": "wCT1",
+    "decimals": 2,
+    "chainId": 28,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
   }
 ]
