@@ -1,6 +1,6 @@
 {
   "name": "capital-dex-token-list",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "description": "This GitHub repo contains the default token list used in the Capital DEX interface.",
   "private": true,
   "main": "build/capital-dex.tokenlist.json",

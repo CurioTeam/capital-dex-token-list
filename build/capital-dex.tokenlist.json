@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-07-29T16:33:59.676Z",
+  "timestamp": "2022-07-29T16:41:06.296Z",
   "version": {
     "major": 1,
     "minor": 16,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -147,38 +147,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "Aurora",
-      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
-      "symbol": "AURORA",
-      "decimals": 18,
-      "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/aurora/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
-    },
-    {
-      "name": "Curio Governance Token",
-      "address": "0xcc84668Daae56F9f2ef907ce79c8ca0D4fDB12A7",
-      "symbol": "CGT",
-      "decimals": 18,
-      "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0xe3520349F477A5F6EB06107066048508498A291b",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
