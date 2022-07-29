@@ -3,6 +3,7 @@ const kovan = require('./tokens/kovan.json');
 const mainnet = require('./tokens/mainnet.json');
 const skaleTestnet = require('./tokens/skale-testnet.json');
 const skaleMainnet = require('./tokens/skale-mainnet.json');
+const auroraMainnet = require('./tokens/aurora-mainnet.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -25,6 +26,7 @@ module.exports = function buildList() {
       ...mainnet,
       ...skaleTestnet,
       ...skaleMainnet,
+      ...auroraMainnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
