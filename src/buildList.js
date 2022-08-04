@@ -1,7 +1,5 @@
 const { version } = require('../package.json');
-const kovan = require('./tokens/kovan.json');
 const mainnet = require('./tokens/mainnet.json');
-const skaleTestnet = require('./tokens/skale-testnet.json');
 const skaleMainnet = require('./tokens/skale-mainnet.json');
 const auroraMainnet = require('./tokens/aurora-mainnet.json');
 
@@ -22,9 +20,7 @@ module.exports = function buildList() {
       'default'
     ],
     tokens: [
-      ...kovan,
       ...mainnet,
-      ...skaleTestnet,
       ...skaleMainnet,
       ...auroraMainnet
     ]
