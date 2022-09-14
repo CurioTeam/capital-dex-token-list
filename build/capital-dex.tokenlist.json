@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-07-14T14:00:21.014Z",
+  "timestamp": "2022-09-14T14:31:10.155Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -100,6 +100,62 @@
       "symbol": "YFI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/968a6d43f6d83b4ec378c72c98ee0bf773310cc7/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+    },
+    {
+      "name": "Curio Governance Token",
+      "address": "0xd219F93eab932441eE2c5A41b3353f0497447DF2",
+      "symbol": "CGT",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+    },
+    {
+      "name": "Curio Stable Coin",
+      "address": "0x9dA76b51A7AE960A84D6E1DBf8A11b1C22876E3c",
+      "symbol": "CSC",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
+    },
+    {
+      "name": "CurToken",
+      "address": "0x9C8e7Bc314726d0B693a5C95d51169e04A500878",
+      "symbol": "CUR",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cur.svg"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x257164f7258c6A896d9CAb27e6fBE16622719F0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Ixs Token",
+      "address": "0x55a4e16b870bFaC5e4F9A88e8f89bA3184739cBF",
+      "symbol": "IXS",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://assets.coingecko.com/coins/images/18069/large/ixswap.PNG?1630375152"
+    },
+    {
+      "name": "Wrapped Car Token 1",
+      "address": "0x60e81635C565d226f58c4db05045d74D99Df9557",
+      "symbol": "wCT1",
+      "decimals": 2,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x440F4dAc53209030807A339062db28421b995919",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "name": "Curio Governance Token",

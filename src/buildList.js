@@ -5,6 +5,7 @@ const skaleTestnetV2 = require('./tokens/skale-testnet-v2.json');
 const skaleMainnet = require('./tokens/skale-mainnet.json');
 const bobaRinkeby = require('./tokens/boba-rinkeby.json');
 const auroraTestnet = require('./tokens/aurora_testnet.json');
+const goerli = require('./tokens/goerli.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -28,7 +29,8 @@ module.exports = function buildList() {
       ...skaleTestnetV2,
       ...skaleMainnet,
       ...bobaRinkeby,
-      ...auroraTestnet
+      ...auroraTestnet,
+      ...goerli
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
