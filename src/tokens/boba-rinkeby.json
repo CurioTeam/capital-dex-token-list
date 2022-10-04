@@ -38,5 +38,13 @@
     "decimals": 2,
     "chainId": 28,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
+  },
+  {
+    "name": "Boba Token",
+    "address": "0xC8d57314019195c343f54b84132B5D4E88E3ccDC",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "chainId": 28,
+    "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576"
   }
 ]

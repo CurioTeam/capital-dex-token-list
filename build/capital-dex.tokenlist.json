@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-09-14T14:31:10.155Z",
+  "timestamp": "2022-10-04T11:03:51.447Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -156,6 +156,14 @@
       "decimals": 18,
       "chainId": 5,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Boba Token",
+      "address": "0xC8d57314019195c343f54b84132B5D4E88E3ccDC",
+      "symbol": "BOBA",
+      "decimals": 18,
+      "chainId": 28,
+      "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576"
     },
     {
       "name": "Curio Governance Token",
