@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-10-14T18:53:46.825Z",
+  "timestamp": "2022-10-16T15:03:46.670Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -204,6 +204,14 @@
       "decimals": 18,
       "chainId": 28,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Aurora",
+      "address": "0xdDFC0e99B794B8d15dE4BB39F5dce0928c282ECA",
+      "symbol": "AURORA",
+      "decimals": 18,
+      "chainId": 1313161555,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/aurora/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
     },
     {
       "name": "Curio Governance Token",

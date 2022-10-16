@@ -38,5 +38,13 @@
     "decimals": 2,
     "chainId": 1313161555,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
+  },
+  {
+    "name": "Aurora",
+    "address": "0xdDFC0e99B794B8d15dE4BB39F5dce0928c282ECA",
+    "symbol": "AURORA",
+    "decimals": 18,
+    "chainId": 1313161555,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/aurora/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
   }
 ]
