@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-10-16T15:03:46.670Z",
+  "timestamp": "2022-10-24T13:09:49.082Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 11
+    "patch": 12
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -252,6 +252,46 @@
       "decimals": 18,
       "chainId": 1313161555,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Curio Governance Token",
+      "address": "0x50D87481c4cD14C7B20F996FD4441c7306a60677",
+      "symbol": "CGT",
+      "decimals": 18,
+      "chainId": 1666900000,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+    },
+    {
+      "name": "Curio Stable Coin",
+      "address": "0xfE6110FbCd0616B1680bDf66e1234b9E2cA609C5",
+      "symbol": "CSC",
+      "decimals": 18,
+      "chainId": 1666900000,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xcFC8002c27985410F7a5Df76f418E5F1a460e1eb",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1666900000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Wrapped Car Token 1",
+      "address": "0xF7fCC9E84cB5631faFaa0Bf7fACF31aCd6f509b5",
+      "symbol": "wCT1",
+      "decimals": 2,
+      "chainId": 1666900000,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
+    },
+    {
+      "name": "Wrapped ONE",
+      "address": "0x26FA2E430c1c252cD8f2ddB02801d4a4f30936fF",
+      "symbol": "WONE",
+      "decimals": 18,
+      "chainId": 1666900000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3/logo.png"
     },
     {
       "name": "Curio Governance Token",
