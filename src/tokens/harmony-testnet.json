@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wrapped ONE",
+    "address": "0x715D0aE552FE5B04A0C3ee7078Ba2fbb804Cc2A3",
+    "symbol": "WONE",
+    "decimals": 18,
+    "chainId": 1666700000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3/logo.png"
+  },
+  {
+    "name": "Curio Governance Token",
+    "address": "0x50D87481c4cD14C7B20F996FD4441c7306a60677",
+    "symbol": "CGT",
+    "decimals": 18,
+    "chainId": 1666700000,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xcFC8002c27985410F7a5Df76f418E5F1a460e1eb",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 1666700000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Curio Stable Coin",
+    "address": "0xc0794845aD5141FFBF3c0AfCB6E333f3431C0277",
+    "symbol": "CSC",
+    "decimals": 18,
+    "chainId": 1666700000,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
+  },
+  {
+    "name": "Wrapped Car Token 1",
+    "address": "0x02F61a069c53dE8CD0aD9BA3c94ce87a22923E54",
+    "symbol": "wCT1",
+    "decimals": 2,
+    "chainId": 1666700000,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
+  }
+]
