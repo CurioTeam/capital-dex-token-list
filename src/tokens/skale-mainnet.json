@@ -62,5 +62,13 @@
     "decimals": 6,
     "chainId": 836542336838601,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Pepe",
+    "address": "0x6174A8225468598bb5744f908967D0a876c38705",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "chainId": 836542336838601,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6982508145454Ce325dDbE47a25d4ec3d2311933/logo.png"
   }
 ]
