@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2022-10-16T15:03:46.670Z",
+  "timestamp": "2023-12-13T14:29:55.891Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 11
+    "patch": 12
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -204,6 +204,30 @@
       "decimals": 18,
       "chainId": 28,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Curio Governance Token on BSC",
+      "address": "0x29f4932E46fD2198e7089Af2a08a50C036337E6d",
+      "symbol": "CGT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x3D525833328412473f9Abe22898616B46715f055",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0x26FA2E430c1c252cD8f2ddB02801d4a4f30936fF",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
     },
     {
       "name": "Aurora",

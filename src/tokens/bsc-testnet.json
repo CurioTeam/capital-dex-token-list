@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wrapped BNB",
+    "address": "0x26FA2E430c1c252cD8f2ddB02801d4a4f30936fF",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+  },
+  {
+    "name": "Curio Governance Token on BSC",
+    "address": "0x29f4932E46fD2198e7089Af2a08a50C036337E6d",
+    "symbol": "CGT",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x3D525833328412473f9Abe22898616B46715f055",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  }
+]
