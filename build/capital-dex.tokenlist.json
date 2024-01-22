@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2023-12-13T14:29:55.891Z",
+  "timestamp": "2024-01-22T14:43:03.542Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 12
+    "patch": 13
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -228,6 +228,30 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    },
+    {
+      "name": "Curio Governance Token",
+      "address": "0x02F61a069c53dE8CD0aD9BA3c94ce87a22923E54",
+      "symbol": "CGT",
+      "decimals": 18,
+      "chainId": 245022926,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+    },
+    {
+      "name": "USDT",
+      "address": "0x6eEf939FC6e2B3F440dCbB72Ea81Cd63B5a519A5",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 245022926,
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/main/assets/tether-usdt-logo.svg"
+    },
+    {
+      "name": "Wrapped Neon",
+      "address": "0x11adC2d986E334137b9ad0a0F290771F31e9517F",
+      "symbol": "WNEON",
+      "decimals": 18,
+      "chainId": 245022926,
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/main/assets/wrapped-neon-logo.svg"
     },
     {
       "name": "Aurora",
