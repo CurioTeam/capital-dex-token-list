@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2023-05-10T20:20:46.500Z",
+  "timestamp": "2024-04-05T18:39:15.130Z",
   "version": {
     "major": 1,
-    "minor": 16,
-    "patch": 4
+    "minor": 17,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -140,6 +140,22 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Curio Gas Token",
+      "address": "0xC1eD606683a3f89317d64BDA602628d68a0B4b24",
+      "symbol": "CGT2.0",
+      "decimals": 18,
+      "chainId": 245022934,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt-2.svg"
+    },
+    {
+      "name": "JPool Staked SOL",
+      "address": "0x7b9f9033aFCF602B556a7aeAC5871a52b56a06ee",
+      "symbol": "JSOL",
+      "decimals": 9,
+      "chainId": 245022934,
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/main/assets/jsol-logo.svg"
     },
     {
       "name": "Curio Governance Token",

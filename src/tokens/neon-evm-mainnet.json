@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Curio Gas Token",
+    "address": "0xC1eD606683a3f89317d64BDA602628d68a0B4b24",
+    "symbol": "CGT2.0",
+    "decimals": 18,
+    "chainId": 245022934,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt-2.svg"
+  },
+  {
+    "name": "JPool Staked SOL",
+    "address": "0x7b9f9033aFCF602B556a7aeAC5871a52b56a06ee",
+    "symbol": "JSOL",
+    "decimals": 9,
+    "chainId": 245022934,
+    "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/main/assets/jsol-logo.svg"
+  }
+]
