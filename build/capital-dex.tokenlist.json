@@ -1,6 +1,6 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2024-04-06T21:33:54.666Z",
+  "timestamp": "2024-04-06T22:25:41.034Z",
   "version": {
     "major": 1,
     "minor": 17,
@@ -156,6 +156,22 @@
       "decimals": 9,
       "chainId": 245022934,
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/main/assets/jsol-logo.svg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 245022934,
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/usd-coin-usdc-logo.svg"
+    },
+    {
+      "name": "Wrapped Ether via Wormhole",
+      "address": "0xcFFd84d468220c11be64dc9dF64eaFE02AF60e8A",
+      "symbol": "WETH",
+      "decimals": 8,
+      "chainId": 245022934,
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wormhole-weth-logo.svg"
     },
     {
       "name": "Curio Governance Token",
