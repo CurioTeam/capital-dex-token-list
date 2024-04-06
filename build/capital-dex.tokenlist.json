@@ -1,6 +1,6 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2024-04-05T18:39:15.130Z",
+  "timestamp": "2024-04-06T21:33:54.666Z",
   "version": {
     "major": 1,
     "minor": 17,
@@ -144,7 +144,7 @@
     {
       "name": "Curio Gas Token",
       "address": "0xC1eD606683a3f89317d64BDA602628d68a0B4b24",
-      "symbol": "CGT2.0",
+      "symbol": "CGT2",
       "decimals": 18,
       "chainId": 245022934,
       "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt-2.svg"
