@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2024-04-20T13:08:51.954Z",
+  "timestamp": "2024-04-20T17:34:38.213Z",
   "version": {
     "major": 1,
     "minor": 17,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -164,14 +164,6 @@
       "decimals": 6,
       "chainId": 245022934,
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/usd-coin-usdc-logo.svg"
-    },
-    {
-      "name": "Wrapped Neon",
-      "address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
-      "symbol": "WNEON",
-      "decimals": 18,
-      "chainId": 245022934,
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/main/assets/wrapped-neon-logo.svg"
     },
     {
       "name": "Curio Governance Token",
