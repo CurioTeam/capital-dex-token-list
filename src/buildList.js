@@ -7,6 +7,7 @@ const auroraTestnet = require('./tokens/aurora-testnet.json');
 const bscTestnet = require('./tokens/bsc-testnet.json');
 const goerli = require('./tokens/goerli.json');
 const neonEvmDevnet = require('./tokens/neon-evm-devnet.json');
+const europaTestnet = require('./tokens/europa-testnet.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -33,6 +34,7 @@ module.exports = function buildList() {
       ...bscTestnet,
       ...goerli,
       ...neonEvmDevnet,
+      ...europaTestnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

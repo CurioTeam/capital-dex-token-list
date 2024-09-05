@@ -1,10 +1,10 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2024-01-22T14:43:03.542Z",
+  "timestamp": "2024-09-05T10:32:00.608Z",
   "version": {
     "major": 1,
     "minor": 14,
-    "patch": 13
+    "patch": 14
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
@@ -300,6 +300,46 @@
       "decimals": 18,
       "chainId": 1313161555,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Curio Gas Token",
+      "address": "0x715D0aE552FE5B04A0C3ee7078Ba2fbb804Cc2A3",
+      "symbol": "CGT",
+      "decimals": 18,
+      "chainId": 1444673419,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt-2.svg"
+    },
+    {
+      "name": "Ether",
+      "address": "0xD2Aaa00700000000000000000000000000000000",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 1444673419,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/eth.svg"
+    },
+    {
+      "name": "Pepe",
+      "address": "0x60e9d093F709C3c6298F49Ca29C305c0AFF33665",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "chainId": 1444673419,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6982508145454Ce325dDbE47a25d4ec3d2311933/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x060BbCC90e74cD033023269CCD69D5235325baf0",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1444673419,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped Car Token 1",
+      "address": "0x26FA2E430c1c252cD8f2ddB02801d4a4f30936fF",
+      "symbol": "wCT1",
+      "decimals": 2,
+      "chainId": 1444673419,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
     },
     {
       "name": "Curio Governance Token",
