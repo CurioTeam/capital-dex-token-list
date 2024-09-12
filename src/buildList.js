@@ -1,8 +1,4 @@
 const { version } = require('../package.json');
-const mainnet = require('./tokens/mainnet.json');
-const skaleMainnet = require('./tokens/skale-mainnet.json');
-const auroraMainnet = require('./tokens/aurora-mainnet.json');
-const bobaMainnet = require('./tokens/boba-mainnet.json');
 const neonEvmMainnet = require('./tokens/neon-evm-mainnet.json');
 
 module.exports = function buildList() {
@@ -22,10 +18,6 @@ module.exports = function buildList() {
       'default'
     ],
     tokens: [
-      ...mainnet,
-      ...skaleMainnet,
-      ...auroraMainnet,
-      ...bobaMainnet,
       ...neonEvmMainnet,
     ]
       // sort them by symbol for easy readability
