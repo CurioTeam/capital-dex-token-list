@@ -8,11 +8,11 @@
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/eth.svg"
   },
   {
-    "name": "Dai Stablecoin",
-    "address": "0xD05C4be5f3be302d376518c9492EC0147Fa5A718",
-    "symbol": "DAI",
-    "decimals": 18,
+    "name": "USD Coin",
+    "address": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
+    "symbol": "USDC",
+    "decimals": 6,
     "chainId": 2046399126,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   }
 ]
