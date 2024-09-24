@@ -1,5 +1,6 @@
 const { version } = require('../package.json');
 const neonEvmMainnet = require('./tokens/neon-evm-mainnet.json');
+const europaMainnet = require('./tokens/europa-mainnet.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -19,6 +20,7 @@ module.exports = function buildList() {
     ],
     tokens: [
       ...neonEvmMainnet,
+      ...europaMainnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
