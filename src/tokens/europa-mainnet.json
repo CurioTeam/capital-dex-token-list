@@ -14,5 +14,21 @@
     "decimals": 6,
     "chainId": 2046399126,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Curio Gas Token",
+    "address": "0xf97a23a0E49e5E0028F8Ce89F7be9a9FD5942Cf6",
+    "symbol": "CGT",
+    "decimals": 18,
+    "chainId": 2046399126,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt-2.svg"
+  },
+  {
+    "name": "SKALE",
+    "address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
+    "symbol": "SKL",
+    "decimals": 18,
+    "chainId": 2046399126,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
   }
 ]
